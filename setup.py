@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-
-#from distutils.core import setup
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(name='LumOpt',
       version='0.0.1',
